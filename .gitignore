@@ -1,0 +1,2 @@
+# gitigore for discarding all the files in .ipynb_checkpoints
+.ipynb_checkpoints
